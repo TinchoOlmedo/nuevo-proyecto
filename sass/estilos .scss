@@ -1,0 +1,21 @@
+/* Required for full background image */
+
+.navbar {
+  background-color: #49071c;
+}
+.navbar .btn-group .dropdown-menu a:hover {
+  color: #000 !important;
+}
+.navbar .btn-group .dropdown-menu a:active {
+  color: #fff !important;
+}
+
+main {
+  h1{
+    font-weight: bold;
+    color: white;
+  }
+  p{
+    color: white;
+  }
+}

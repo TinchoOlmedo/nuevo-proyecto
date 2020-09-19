@@ -1,0 +1,28 @@
+/* Required for full background image */
+/* line 3, ../../../../Nuevo proyecto/sass/estilos .scss */
+.navbar {
+  background-color: #49071c;
+}
+
+/* line 6, ../../../../Nuevo proyecto/sass/estilos .scss */
+.navbar .btn-group .dropdown-menu a:hover {
+  color: #000 !important;
+}
+
+/* line 9, ../../../../Nuevo proyecto/sass/estilos .scss */
+.navbar .btn-group .dropdown-menu a:active {
+  color: #fff !important;
+}
+
+/* line 14, ../../../../Nuevo proyecto/sass/estilos .scss */
+main h1 {
+  font-weight: bold;
+  color: white;
+}
+
+/* line 18, ../../../../Nuevo proyecto/sass/estilos .scss */
+main p {
+  color: white;
+}
+
+/*# sourceMappingURL=estilos .css.map */

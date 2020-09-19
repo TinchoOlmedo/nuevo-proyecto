@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "estilos .css",
+	"sources": [
+		"../sass/estilos .scss"
+	],
+	"sourcesContent": [
+		"/* Required for full background image */\n\n.navbar {\n  background-color: #49071c;\n}\n.navbar .btn-group .dropdown-menu a:hover {\n  color: #000 !important;\n}\n.navbar .btn-group .dropdown-menu a:active {\n  color: #fff !important;\n}\n\nmain {\n  h1{\n    font-weight: bold;\n    color: white;\n  }\n  p{\n    color: white;\n  }\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,wCAAwC;;AAExC,AAAA,OAAO,CAAC;EACN,gBAAgB,EAAE,OAAO;CAC1B;;;AACD,AAAA,OAAO,CAAC,UAAU,CAAC,cAAc,CAAC,CAAC,AAAA,MAAM,CAAC;EACxC,KAAK,EAAE,eAAe;CACvB;;;AACD,AAAA,OAAO,CAAC,UAAU,CAAC,cAAc,CAAC,CAAC,AAAA,OAAO,CAAC;EACzC,KAAK,EAAE,eAAe;CACvB;;;AAED,AACE,IADE,CACF,EAAE,CAAA;EACA,WAAW,EAAE,IAAI;EACjB,KAAK,EAAE,KAAK;CACb;;;AAJH,AAKE,IALE,CAKF,CAAC,CAAA;EACC,KAAK,EAAE,KAAK;CACb"
+}
